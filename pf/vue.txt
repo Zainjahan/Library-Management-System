@@ -1,0 +1,16 @@
+ npm install -g @vue/cli
+
+npm install vue
+
+vue --version
+
+vue create zain
+
+npm install -g @vue/cli
+
+vue --version
+
+npm update -g @vue/cli
+
+cd zain
+ $ npm run serve
